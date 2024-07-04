@@ -1,2 +1,2 @@
 # Torch-fundamentals
-my own implementation of pytorch and keras
+my own implementation of PYTORCH , KERAS, TF blablaa blaa ....
